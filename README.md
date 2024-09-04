@@ -11,6 +11,10 @@ The proposed system for street light monitoring and management harnesses the pow
 ## Schematic Diagram
 ![Schematic_smart-street-light-monitoring-system_2024-07-12](https://github.com/user-attachments/assets/59028d05-aa2e-4788-bf8f-89316146f1c2)
 
+## PCB LAYOUT OF PROPOSED SYSTEM
+![PCB_PCB_smart-street-light-monitoring-system_2024-07-12](https://github.com/user-attachments/assets/f47b74ca-d197-4f95-8743-04c572c69aab)
+
+
 ## Chassis Design
 
 | |
