@@ -16,21 +16,8 @@ The proposed system for street light monitoring and management harnesses the pow
 ## PCB LAYOUT OF PROPOSED SYSTEM
 ![PCB_PCB_smart-street-light-monitoring-system_2024-07-12](https://github.com/user-attachments/assets/f47b74ca-d197-4f95-8743-04c572c69aab)
 
-
-## Chassis Design
-
-| |
-|---|---|
-
 >[!NOTE]
 >Wheels Design Files are Uploaded and Can be 3D Printed Directly.
-
-## Menu Graphic
-
-|![Start](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/4846a1b8-f431-4558-b08a-dfa423befb6e)|![Settings](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/96eae412-999c-4ceb-a8cf-7e0800f1fc22)|![Kp](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/44a41a0b-8cfa-48e9-987d-21ffa6e8dc9d)|
-|---|---|---|
-|![Kd](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/e53380b4-74c8-43b0-bfbd-a85b8ec86bf7)|![Calibrate](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/38b9aeda-b972-4bf8-89bc-53f35eba7cb1)|![Sensor Values](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/5f8b2d97-d66c-4411-b7ee-69568664586b)|
-|![Run](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/55dc97ee-4e88-4dc0-b00d-3ac03a3de556)|
 
 ## Demo Video
 
@@ -60,6 +47,11 @@ The proposed system for street light monitoring and management harnesses the pow
 
 > [!NOTE]
 > Components price may vary.
+
+## BLOCK CODE OF APK
+|![image](https://github.com/user-attachments/assets/4d1963b8-9a4c-4af1-b34f-36285026e106)|
+|---|
+|Main Screen Block|
 
 ## Source Code
 1. `main.py` file which contains the basic setup and Run.
