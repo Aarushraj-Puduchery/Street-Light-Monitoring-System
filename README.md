@@ -49,9 +49,13 @@ The proposed system for street light monitoring and management harnesses the pow
 > Components price may vary.
 
 ## BLOCK CODE OF APK
-|![image](https://github.com/user-attachments/assets/4d1963b8-9a4c-4af1-b34f-36285026e106)|
-|---|
-|Main Screen Block|
+### Main Screen Block
+![image](https://github.com/user-attachments/assets/4d1963b8-9a4c-4af1-b34f-36285026e106)
+
+### Interface Screen Block
+![image](https://github.com/user-attachments/assets/ef8e9105-d4c9-4910-96b5-f1d988146c27)
+
+
 
 ## Source Code
 1. `main.py` file which contains the basic setup and Run.
