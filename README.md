@@ -2,11 +2,13 @@
 
 The proposed system for street light monitoring and management harnesses the power of the Internet of Things (IoT) to address the limitations of traditional street lighting approaches. Conventional methods primarily rely on fixed schedules and basic control mechanisms, leading to challenges in adapting to diverse environmental conditions and varying usage patterns. These systems often struggle with inefficiencies, such as lights remaining on during periods of sufficient natural daylight or failing to adjust to changes in weather, traffic volumes, and emergencies. Additionally, the lack of real-time data collection and analysis hinders the ability of traditional systems to optimize energy use, reduce maintenance costs, and enhance public safety.
 
-## LFR Images
+## Project Images
 
-|![Top View](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/4624c483-891d-458d-989e-ea01030e3924)|![Bottom View](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/5f545651-995a-4b07-9590-7b90890e553b)|
+|![image](https://github.com/user-attachments/assets/bdc6600b-4531-4c8f-9c2d-aec4374b26c0)|![image](https://github.com/user-attachments/assets/04039a36-a11f-4fc1-b163-cc800ab05ce1)|
 |---|---|
-|![Left view](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/477f90f3-51c8-4de5-b0b8-dcf42f1aa284)|![Right View](https://github.com/Aarushraj-Puduchery/16_IR_Array_PID_LFR_Using_ESP32/assets/97360295/40b418bb-8b40-4596-b7e4-01b5e652d84b)|
+
+## Block Diagram
+![Street Light Monitoring System Block Diagram](https://github.com/user-attachments/assets/d59b7a48-3edb-42d2-ac0a-544345b2201a)
 
 ## Schematic Diagram
 ![Schematic_smart-street-light-monitoring-system_2024-07-12](https://github.com/user-attachments/assets/59028d05-aa2e-4788-bf8f-89316146f1c2)
