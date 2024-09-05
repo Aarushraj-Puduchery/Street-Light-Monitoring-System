@@ -21,6 +21,16 @@ The proposed system for street light monitoring and management harnesses the pow
 
 ## Demo Video
 
+## Software Used
+### Arduino IDE
+![image](https://github.com/user-attachments/assets/f5da6250-1279-42eb-8298-4ad95f68b64b)
+### Google Firebase
+![image](https://github.com/user-attachments/assets/1fe29400-da76-418a-b405-b10e70c72492)
+### MIT App Inventor 2
+![image](https://github.com/user-attachments/assets/dcf9b4cb-9016-440a-a44a-14ec0116871b)
+### EASYEDA
+![image](https://github.com/user-attachments/assets/cafd2047-b59e-4206-add5-6ccf5a451ca0)
+
 ## Components List
 |S.No|  Name  | Cost | Quantity | Total Cost | Link |
 |---| --- | --- | --- | --- | --- |
@@ -30,20 +40,8 @@ The proposed system for street light monitoring and management harnesses the pow
 |4| SN74HC595N DIP16  | ₹25.00 | 1 | ₹25.00 | https://robu.in/product/sn74hc595n-dip16/?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfKoBFJ_23Bn5KDN6wh2gz5CmOH_B6LbxO2LP0kftHpQ2IwlCdJLXRhoC6VYQAvD_BwE |
 |5| Yellow LED 5mm Diffused | ₹1.77 | 6 | ₹10.62 | https://www.electronicscomp.com/yellow-led-5mm-diffused-india?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfEKZqn70XbV5qivTH7jNCnR4E9VbRmuFl2wI0-HgR3Z_GR2AaKfENRoCVPkQAvD_BwE |
 |6| 5mm LDR | ₹2.80 | 6 | ₹16.80 | https://robu.in/product/5mm-ldr-pack-of-10/ |
-|7| Mini MP1584 DC-DC 3A Adjustable Buck module | ₹48.00 | 1 | ₹48.00 | https://robu.in/product/mini-mp1584-dc-dc-adjustable-buck-module-3a/ |
-|8| N20 mini-vacuum steel-ball caster wheel | ₹75.00 | 1 | ₹75.00 | https://robu.in/product/ball-castors/?gclid=CjwKCAjwv-2pBhB-EiwAtsQZFJapkUm2pvyraM-fcvEbIFXAwsW7BcBFXMhT8CuGdiMnjmRCqo3y5RoCfbwQAvD_BwE |
-|9| Orange 850mah 3S 30C/60C (11.1V) Lithium Polymer Battery Pack | ₹999.00 | 1 | ₹999.00 | https://robu.in/product/orange-850mah-3s-30c-60c-lithium-polymer-battery-pack-lipo/ |
-|10| Nylon XT60 Connectors Male/Female (1 pairs) | ₹69.00 | 1 | ₹69.00 | https://robu.in/product/amass-nylon-xt60-connectors-male-female-pair/ |
-|11| Cricket Bat Grip | ₹100.00 | 1 | ₹100.00 | Local Shop |
-|12| 1.3 inch 128×64 White OLED Display | ₹359.00 | 1 | ₹359.00 | https://robu.in/product/1-3-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/ |
-|13| 5 x 7 cm Universal PCB Prototype Board Single-Sided 2.54mm Hole Pitch | ₹33.00 | 2 | ₹66.00 | https://robu.in/product/5-x-7-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch/?gclid=CjwKCAjwv-2pBhB-EiwAtsQZFE5b9qHKxeqy_LWVFsEkEtWvAuZyjGFokjC_KK8nJEzkA3N0C3TE_xoCRrgQAvD_BwE | 
-|14| 3 Pin SPDT Toggle switch | ₹70.00 | 1 | ₹70.00 | https://robu.in/product/5a-3-pin-spdt-toggle-switch/ |
-|15| Tactile Push Button | ₹5.00 | 6 | ₹30.00 | https://robu.in/product/12x12x7-3mm-tactile-push-button-switch-round/ |
-|16| Female Header pins | ₹20.00 | 5 | ₹100.00 | https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/?gclid=CjwKCAjwv-2pBhB-EiwAtsQZFAtwQ3ul10GUEYZ4OoZSfY7DK1FfVSDdqT6manq-n7lpXNj7vYUe9xoCQpQQAvD_BwE |
-|17| Laser Cutting For Chassis | ₹205.00 | 1 | ₹205.00 | https://robu.in/product/online-laser-cutting-service/?utm_source=website&utm_medium=header&utm_campaign=laser-cutting-service&utm_id=free_promotion |
-|18| 4mm SPDT 1P2T Slide Switch | ₹5.00 | 2 | ₹10.00 | https://robu.in/product/4mm-spdt-1p2t-slide-switch-pack-of-10/?gad_source=1&gclid=CjwKCAjw8diwBhAbEiwA7i_sJdteHYWvkgwv5K-RXt2dMcR4QeJUNp-5dkLhoCquk7IZ7fX7WUhKhxoC30YQAvD_BwE |
-|19| 10k resistor 1/4W | ₹0.50 | 22 | ₹11.00 | https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/ |
-|20| 220 resistor 1/4W | ₹0.50 | 16 | ₹8.00 | https://robu.in/product/220-ohm-resistor-0-25w-metal-film-pack-of-100/ |
+|7| Female Header pins | ₹20.00 | 5 | ₹100.00 | https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/ |
+|8| 220 resistor 1/4W | ₹0.50 | 16 | ₹8.00 | https://robu.in/product/220-ohm-resistor-0-25w-metal-film-pack-of-100/ |
 
 > [!NOTE]
 > Components price may vary.
@@ -68,5 +66,19 @@ The proposed system for street light monitoring and management harnesses the pow
 4. `ssd1106.py` file is the library used for Oled display.
 5. `framebuf.py` file is the library used for displaying graphics on Oled display.
 
+## Working
+The implementation of the IoT-based Street Light Monitoring System yielded significant results and insights into urban infrastructure management. The system's architecture diagram illustrates the integration of smart sensors, wireless communication modules, and centralized management software with existing street lighting infrastructure. This setup enabled real-time monitoring and dynamic control of street lights based on ambient conditions, traffic patterns, and environmental factors, as depicted in the real-time monitoring interface image.
 
+![image](https://github.com/user-attachments/assets/08e035a3-c3eb-4b6c-a385-1e24bf05adef)
 
+if there is any light not working, it will first indicate in the specific block interface, for example in Admin Block. it will send a send to a particular number and also the data is logged into google sheets with Block and light number.
+
+![image](https://github.com/user-attachments/assets/561fa25b-48e4-48d6-9c85-48f0a43fd729)
+![image](https://github.com/user-attachments/assets/94ba5efe-c1b4-410b-a8dc-9546dd285521)
+
+Also we can schedule the turning on and off of the lights and check the status of it using the main screen interface map
+
+![image](https://github.com/user-attachments/assets/3264957c-5c08-4878-ad53-c2e8ea8499c8)
+![image](https://github.com/user-attachments/assets/cbf9a3fc-4671-4749-a962-1e8f64b36f20)
+
+It is a Realtime Block Map where the Balls represent the Lights and when it is turned On, it is turns into Green and when Lights are Off, then it is turns into Red.
