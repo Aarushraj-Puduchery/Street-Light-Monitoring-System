@@ -69,16 +69,17 @@ The proposed system for street light monitoring and management harnesses the pow
 ## Working
 The implementation of the IoT-based Street Light Monitoring System yielded significant results and insights into urban infrastructure management. The system's architecture diagram illustrates the integration of smart sensors, wireless communication modules, and centralized management software with existing street lighting infrastructure. This setup enabled real-time monitoring and dynamic control of street lights based on ambient conditions, traffic patterns, and environmental factors, as depicted in the real-time monitoring interface image.
 
-![image](https://github.com/user-attachments/assets/08e035a3-c3eb-4b6c-a385-1e24bf05adef)
+|![image](https://github.com/user-attachments/assets/08e035a3-c3eb-4b6c-a385-1e24bf05adef)|
+|---|
 
 if there is any light not working, it will first indicate in the specific block interface, for example in Admin Block. it will send a send to a particular number and also the data is logged into google sheets with Block and light number.
 
-![image](https://github.com/user-attachments/assets/561fa25b-48e4-48d6-9c85-48f0a43fd729)
-![image](https://github.com/user-attachments/assets/94ba5efe-c1b4-410b-a8dc-9546dd285521)
+|![image](https://github.com/user-attachments/assets/561fa25b-48e4-48d6-9c85-48f0a43fd729)| ![image](https://github.com/user-attachments/assets/94ba5efe-c1b4-410b-a8dc-9546dd285521)|
+|---|---|
 
 Also we can schedule the turning on and off of the lights and check the status of it using the main screen interface map
 
-![image](https://github.com/user-attachments/assets/3264957c-5c08-4878-ad53-c2e8ea8499c8)
-![image](https://github.com/user-attachments/assets/cbf9a3fc-4671-4749-a962-1e8f64b36f20)
+|![image](https://github.com/user-attachments/assets/3264957c-5c08-4878-ad53-c2e8ea8499c8)| ![image](https://github.com/user-attachments/assets/cbf9a3fc-4671-4749-a962-1e8f64b36f20)|
+|---|---|
 
 It is a Realtime Block Map where the Balls represent the Lights and when it is turned On, it is turns into Green and when Lights are Off, then it is turns into Red.
