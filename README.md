@@ -17,7 +17,7 @@ The proposed system for street light monitoring and management harnesses the pow
 ![PCB_PCB_smart-street-light-monitoring-system_2024-07-12](https://github.com/user-attachments/assets/f47b74ca-d197-4f95-8743-04c572c69aab)
 
 >[!NOTE]
->Check out this link:" https://www.linkedin.com/posts/aarushraj-puduchery_single-layer-pcb-using-ironing-method-activity-7216661555927482368-7IlG?utm_source=share&utm_medium=member_android " for how I made this PCB.
+>Check out this link: https://www.linkedin.com/posts/aarushraj-puduchery_single-layer-pcb-using-ironing-method-activity-7216661555927482368-7IlG?utm_source=share&utm_medium=member_android for how I made this PCB.
 
 ## Demo Video
 
