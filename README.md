@@ -24,12 +24,12 @@ The proposed system for street light monitoring and management harnesses the pow
 ## Components List
 |S.No|  Name  | Cost | Quantity | Total Cost | Link |
 |---| --- | --- | --- | --- | --- |
-|1| ESP32 38 pin Development Board | ₹463.00 | 1 | ₹463.00 | https://robu.in/product/esp32-38pin-development-board-wifibluetooth-ultra-low-power-consumption-dual-core/ |
-|2| TCRT5000 - Reflective Infrared Optical Sensor | ₹14.00 | 16 | ₹84.00 | https://www.electronicscomp.com/tcrt-5000-reflective-infrared-optical-sensor?gad_source=1&gclid=CjwKCAjw8diwBhAbEiwA7i_sJXOqHk0dZvL_GnIE0G32WTJIGomgZAWdONYpeRQPgrdWhnDTaYYXDxoCjcIQAvD_BwE |
+|1| NodeMCU ESP8266 AMICA CP2102 WiFi Development Board | ₹265.00 | 1 | ₹265.00 | https://robocraze.com/products/nodemcu-esp8266-amica-cp2102-driver?srsltid=AfmBOoogMvcexCtmSbWse7CRjlj3xKAwc4Z1z6Tf-QVRbGfN5wyhwVLc |
+|2| Tiny RTC Real Time Clock DS1307 I2C IIC Module | ₹44.00 | 1 | ₹44.00 | https://robu.in/product/tiny-rtc-real-time-clock-ds1307-i2c-iic-module-for-arduino/ |
 |3| CD74HC4067 16 Channel Multiplexer | ₹47.00 | 1 | ₹47.00 | https://www.electronicscomp.com/cd74hc4067-16-channel-multiplexer-breakout-board-module-india?gad_source=1&gclid=CjwKCAjw8diwBhAbEiwA7i_sJbTI_0htwSTLoZ-y8TKZmN8GVIqDA2loj_VPuERGRcLqPaKO2KgiRhoCEmwQAvD_BwE |
-|4| N20-12V-1000 Rpm Micro Metal Gear Motor DC Encoder | ₹448.00 | 2 | ₹1792.00 | https://robokits.co.in/motors/n20-metal-gear-micro-motors/n20-metal-gear-encoder-motor/ga12-n20-12v-1000-rpm-all-metal-gear-micro-dc-encoder-motor-with-precious-metal-brush |
-|5| TB6612FNG Dual Channel Motor Driver | ₹349.00 | 1 | ₹349.00 | https://www.robojunkies.com/products/tb6612fng-dual-channel-motor-driver-breakout |
-|6| Mounting Bracket for N20 Micro Gear motors | ₹29.00 | 2 | ₹58.00 | https://robu.in/product/mounting-bracket-n20-micro-gear-motors/?gclid=CjwKCAjwv-2pBhB-EiwAtsQZFMyVAIrgacEo3SnLeiZb_c0rmLDukQiCUuQzv2EGzwINDnRaVgi07hoCHJsQAvD_BwE |
+|4| SN74HC595N DIP16  | ₹25.00 | 1 | ₹25.00 | https://robu.in/product/sn74hc595n-dip16/?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfKoBFJ_23Bn5KDN6wh2gz5CmOH_B6LbxO2LP0kftHpQ2IwlCdJLXRhoC6VYQAvD_BwE |
+|5| Yellow LED 5mm Diffused | ₹1.77 | 6 | ₹10.62 | https://www.electronicscomp.com/yellow-led-5mm-diffused-india?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfEKZqn70XbV5qivTH7jNCnR4E9VbRmuFl2wI0-HgR3Z_GR2AaKfENRoCVPkQAvD_BwE |
+|6| 5mm LDR | ₹2.80 | 6 | ₹16.80 | https://robu.in/product/5mm-ldr-pack-of-10/ |
 |7| Mini MP1584 DC-DC 3A Adjustable Buck module | ₹48.00 | 1 | ₹48.00 | https://robu.in/product/mini-mp1584-dc-dc-adjustable-buck-module-3a/ |
 |8| N20 mini-vacuum steel-ball caster wheel | ₹75.00 | 1 | ₹75.00 | https://robu.in/product/ball-castors/?gclid=CjwKCAjwv-2pBhB-EiwAtsQZFJapkUm2pvyraM-fcvEbIFXAwsW7BcBFXMhT8CuGdiMnjmRCqo3y5RoCfbwQAvD_BwE |
 |9| Orange 850mah 3S 30C/60C (11.1V) Lithium Polymer Battery Pack | ₹999.00 | 1 | ₹999.00 | https://robu.in/product/orange-850mah-3s-30c-60c-lithium-polymer-battery-pack-lipo/ |
@@ -55,7 +55,11 @@ The proposed system for street light monitoring and management harnesses the pow
 ### Interface Screen Block
 ![image](https://github.com/user-attachments/assets/ef8e9105-d4c9-4910-96b5-f1d988146c27)
 
+### Admin Block Interface Blocks
+![image](https://github.com/user-attachments/assets/c5df06f1-3d34-4241-ba56-95fa62b53a4c)
 
+### ECE Block Interface Blocks
+![image](https://github.com/user-attachments/assets/8c732269-fa9f-4fea-a791-41144fc555c4)
 
 ## Source Code
 1. `main.py` file which contains the basic setup and Run.
@@ -64,7 +68,5 @@ The proposed system for street light monitoring and management harnesses the pow
 4. `ssd1106.py` file is the library used for Oled display.
 5. `framebuf.py` file is the library used for displaying graphics on Oled display.
 
->[!IMPORTANT]
->All the Files must be saved on the ESP32 Memory.
 
 
