@@ -17,7 +17,7 @@ The proposed system for street light monitoring and management harnesses the pow
 ![PCB_PCB_smart-street-light-monitoring-system_2024-07-12](https://github.com/user-attachments/assets/f47b74ca-d197-4f95-8743-04c572c69aab)
 
 >[!NOTE]
->Wheels Design Files are Uploaded and Can be 3D Printed Directly.
+>Check out this link:" https://www.linkedin.com/posts/aarushraj-puduchery_single-layer-pcb-using-ironing-method-activity-7216661555927482368-7IlG?utm_source=share&utm_medium=member_android " for how I made this PCB.
 
 ## Demo Video
 
@@ -60,12 +60,12 @@ The proposed system for street light monitoring and management harnesses the pow
 ![image](https://github.com/user-attachments/assets/8c732269-fa9f-4fea-a791-41144fc555c4)
 
 ## Source Code
-1. `StreetLight_monitoring_system.ino` file which is the main code.
->[!NOTE]
->before uploading make sure to change the wifi SSID and Password.
-2. Install all the Libraries in the Libraries folder.
+1. Install all the Libraries in the Libraries folder.
 >[!IMPORTANT]
 >in ...\Arduino\libraries\firebase-arduino-master\sr, open the 'FirebaseHttpClient.c' file and in line-43 replace the Firebase-Fingerprint with lastest one.
+2. `StreetLight_monitoring_system.ino` file which is the main code.
+>[!NOTE]
+>before uploading make sure to change the wifi SSID and Password.
 3. Install the Apk on your mobile.
 
 ## Working
