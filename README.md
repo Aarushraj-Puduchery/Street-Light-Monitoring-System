@@ -60,11 +60,13 @@ The proposed system for street light monitoring and management harnesses the pow
 ![image](https://github.com/user-attachments/assets/8c732269-fa9f-4fea-a791-41144fc555c4)
 
 ## Source Code
-1. `main.py` file which contains the basic setup and Run.
-2. `bitmap.py` file contains all the menu graphics.
-3. `KpValue.csv` and `KdValue.csv` are the files which store the kp and kd values.
-4. `ssd1106.py` file is the library used for Oled display.
-5. `framebuf.py` file is the library used for displaying graphics on Oled display.
+1. `StreetLight_monitoring_system.ino` file which is the main code.
+>[!NOTE]
+>before uploading make sure to change the wifi SSID and Password.
+2. Install all the Libraries in the Libraries folder.
+>[!IMPORTANT]
+>in ...\Arduino\libraries\firebase-arduino-master\sr, open the 'FirebaseHttpClient.c' file and in line-43 replace the Firebase-Fingerprint with lastest one.
+3. Install the Apk on your mobile.
 
 ## Working
 The implementation of the IoT-based Street Light Monitoring System yielded significant results and insights into urban infrastructure management. The system's architecture diagram illustrates the integration of smart sensors, wireless communication modules, and centralized management software with existing street lighting infrastructure. This setup enabled real-time monitoring and dynamic control of street lights based on ambient conditions, traffic patterns, and environmental factors, as depicted in the real-time monitoring interface image.
