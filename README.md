@@ -21,6 +21,8 @@ The proposed system for street light monitoring and management harnesses the pow
 
 ## Demo Video
 
+https://github.com/user-attachments/assets/5bbe99d0-c180-484c-a484-dd43d03d4b35
+
 ## Software Used
 ### Arduino IDE
 ![image](https://github.com/user-attachments/assets/f5da6250-1279-42eb-8298-4ad95f68b64b)
